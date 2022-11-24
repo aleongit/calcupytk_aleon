@@ -1,6 +1,6 @@
 # calcuPyTk
 
-Exemple d'una simple calculadora GUI Python i tkinter.
+Exemple d'una simple calculadora GUI amb Python i tkinter.
 
 
 ## Requeriments
